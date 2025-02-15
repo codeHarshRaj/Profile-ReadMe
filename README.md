@@ -1,6 +1,10 @@
-# Profile-ReadMe
 <h1 align="center">Hi 👋, I'm Harsh Raj!</h1>
-<h3 align="center">👋 Hi there! I'm a Front-End Developer with a passion for crafting responsive, interactive, and user-friendly web experiences. 🚀 I specialize in HTML, CSS, JavaScript, React.js, and TailwindCSS, bringing designs to life with smooth animations and clean code. 🎨 With a keen eye for UI/UX, I focus on accessibility, performance, and creating seamless user experiences. I love collaborating on exciting projects, exploring new technologies, and continuously improving my skills. 💡 Let's connect and build something amazing together! ✨</h3>
+<h3 align="center">👋 Hi there! I'm a Front-End Developer with a passion for crafting responsive, interactive, and user-friendly web experiences. 
+<img align="right" at="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif>
+
+
+
+🚀 I specialize in HTML, CSS, JavaScript, React.js, and TailwindCSS, bringing designs to life with smooth animations and clean code. 🎨 With a keen eye for UI/UX, I focus on accessibility, performance, and creating seamless user experiences. I love collaborating on exciting projects, exploring new technologies, and continuously improving my skills. 💡 Let's connect and build something amazing together! ✨</h3>
 
 - 👨‍💻 All of my projects are available at [https://harsh-raj.netlify.app/](https://harsh-raj.netlify.app/)
 
