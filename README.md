@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harsh Raj!</h1>
+<h1 align="center">Hi 👋, I'm Harsh Raj !</h1>
 
+<h3 align="center">👋 Hi there! I'm a Front-End Developer with a passion for crafting responsive and user-friendly Web Experiences. 
 
-<h3 align="center">👋 Hi there! I'm a Front-End Developer with a passion for crafting responsive, interactive, and user-friendly web experiences. 
-<!-- <img align="right" at="Coding" height="200" width="200" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif"> -->
 
 
 
